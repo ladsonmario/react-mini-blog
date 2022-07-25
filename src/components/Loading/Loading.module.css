@@ -1,0 +1,14 @@
+.loading {
+    display: flex;
+    justify-content: center;    
+    padding-bottom: 10px;  
+    border-bottom: 1px solid #aaa;  
+}
+.loading span {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.loading span img {
+    width: 30px;
+}
