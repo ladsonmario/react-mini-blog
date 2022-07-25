@@ -1,0 +1,20 @@
+*, 
+*:after,
+*:before {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;    
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;    
+}
+.container {
+    max-width: 1028px;
+    width: 100%;
+    margin: auto;    
+    background-color: #fff;
+    box-shadow: 0px 0px 10px #333;
+    padding: 10px;
+}
