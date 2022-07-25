@@ -1,16 +1,17 @@
-# Calculadora de IMC
+# Mini Blog
 
-Projeto feito em React + TypeScript para fins de estudos. Simula uma calculadora de IMC(Índice de Massa Corpórea).
+Projeto feito em React + TypeScript para fins de estudos. Simula um pequeno blog, foi usado a API [JSONPlaceholder](https://jsonplaceholder.typicode.com/) para simular os Posts.
 
-Este projeto foi desenvolvido durante o curso de React da [B7Web](https://b7web.com.br).
+## Estilização
+Para estilização foi usada a técnica CSS Modules.
 
-## Projeto gerado em CRA
+## Projeto gerado em VITE
 
 ### Instalação
 - `npm install`
 
 ### Para rodar
-- `npm start`
+- `npm run dev`
 
 ## Para testar
-O projeto foi hospedado na Vercel. Para testar: [Clique aqui](https://react-calc-imc-wine.vercel.app/).
+O projeto foi hospedado na Vercel. Para testar: [Clique aqui](https://react-mini-blog-phi.vercel.app/).
